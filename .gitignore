@@ -1,0 +1,31 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE folders
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Node modules (if frontend exists)
+node_modules/
+
+# Generated files
+dist/
+coverage/
